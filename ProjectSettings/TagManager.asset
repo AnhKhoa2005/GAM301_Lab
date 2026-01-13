@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Enemy
   - Turret
+  - swordSrc
+  - SoundManager
+  - FxTemporaire
+  - Interactable
+  - EnemyRange
+  - Ground
+  - Obstacle
   layers:
   - Default
   - TransparentFX
