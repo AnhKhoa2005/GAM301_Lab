@@ -13,16 +13,18 @@ TagManager:
   - EnemyRange
   - Ground
   - Obstacle
+  - Flag
+  - MainHouse
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - Turret
-  - 
-  - 
+  - Flag
+  - Player
   - 
   - 
   - 
